@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "محمد رضایی",
+    "grade": 7,
+    "class": "701",
+    "photo": "https://via.placeholder.com/100/3498db/ffffff?text=MR",
+    "birth_date": "1389-05-15"
+  },
+  {
+    "id": 2,
+    "name": "فاطمه محمدی",
+    "grade": 7, 
+    "class": "701",
+    "photo": "https://via.placeholder.com/100/e74c3c/ffffff?text=FM",
+    "birth_date": "1389-08-22"
+  },
+  {
+    "id": 3,
+    "name": "علی کریمی",
+    "grade": 8,
+    "class": "802", 
+    "photo": "https://via.placeholder.com/100/2ecc71/ffffff?text=AK",
+    "birth_date": "1388-03-10"
+  },
+  {
+    "id": 4,
+    "name": "زهرا حسینی",
+    "grade": 8,
+    "class": "802",
+    "photo": "https://via.placeholder.com/100/f39c12/ffffff?text=ZH", 
+    "birth_date": "1388-11-05"
+  },
+  {
+    "id": 5,
+    "name": "امیر عباسی",
+    "grade": 9,
+    "class": "903",
+    "photo": "https://via.placeholder.com/100/9b59b6/ffffff?text=AA",
+    "birth_date": "1387-07-18"
+  },
+  {
+    "id": 6, 
+    "name": "نرگس جعفری",
+    "grade": 9,
+    "class": "903",
+    "photo": "https://via.placeholder.com/100/1abc9c/ffffff?text=NJ",
+    "birth_date": "1387-12-25"
+  }
+]
