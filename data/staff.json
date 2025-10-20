@@ -1,1 +1,187 @@
-
+[
+  {
+    "id": 1,
+    "name": "یعقوب بیابانی",
+    "role": "دبیر عربی",
+    "bio": "من به فرد محبوبم واسه همه اقشار، طرفدارام بیشترن از مهناز افشار.",
+    "photo": "https://via.placeholder.com/100/2ecc71/ffffff?text=یب",
+    "grades": [8, 9],
+    "subjects": ["عربی"],
+    "bluetik": false,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 2,
+    "name": "سید میثم نیکزاد",
+    "role": "دبیر علوم تجربی",
+    "bio": "دبیر علوم تجربی پایه هفتم با سابقه تدریس درخشان",
+    "photo": "https://via.placeholder.com/100/3498db/ffffff?text=سم",
+    "grades": [7],
+    "subjects": ["علوم تجربی"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 3,
+    "name": "بهرامی",
+    "role": "مدیریت مدرسه",
+    "bio": "مدیر دبیرستان ۱۵ خرداد با سال‌ها تجربه در مدیریت آموزشی",
+    "photo": "https://via.placeholder.com/100/e74c3c/ffffff?text=به",
+    "grades": [],
+    "subjects": [],
+    "bluetik": true,
+    "editor": true,
+    "posts": [
+      {
+        "text": "به استحضار می‌رساند جلسه اولیاء و مربیان در تاریخ ۱۴۰۳/۰۸/۱۵ برگزار خواهد شد.",
+        "date": "۱۴۰۳/۰۷/۲۰"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "مصطفی",
+    "role": "سرپرست اداری",
+    "bio": "سرپرست امور اداری و پشتیبانی مدرسه",
+    "photo": "https://via.placeholder.com/100/9b59b6/ffffff?text=مص",
+    "grades": [],
+    "subjects": [],
+    "bluetik": false,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 5,
+    "name": "منوچهر کلوندی",
+    "role": "دبیر فارسی",
+    "bio": "دبیر زبان و ادبیات فارسی پایه‌های هشتم و نهم",
+    "photo": "https://via.placeholder.com/100/1abc9c/ffffff?text=مک",
+    "grades": [8, 9],
+    "subjects": ["فارسی"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 6,
+    "name": "محمد یزدان",
+    "role": "ناظم مدرسه",
+    "bio": "ناظم دبیرستان ۱۵ خرداد",
+    "photo": "https://via.placeholder.com/100/34495e/ffffff?text=مح",
+    "grades": [],
+    "subjects": [],
+    "bluetik": true,
+    "editor": true,
+    "posts": []
+  },
+  {
+    "id": 7,
+    "name": "فریدون امیراینانلو",
+    "role": "دبیر املاء و انشاء",
+    "bio": "مدرس دروس املاء و انشاء",
+    "photo": "https://via.placeholder.com/100/e67e22/ffffff?text=فا",
+    "grades": [7, 8, 9],
+    "subjects": ["املاء و انشاء", "نگارش"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 8,
+    "name": "منوچهر رحیمی",
+    "role": "دبیر تربیت بدنی",
+    "bio": "مدرس تربیت بدنی و سلامت",
+    "photo": "https://via.placeholder.com/100/c0392b/ffffff?text=مر",
+    "grades": [7, 8, 9],
+    "subjects": ["تربیت بدنی", "سلامت"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 9,
+    "name": "نورمحمد ناموران",
+    "role": "دبیر",
+    "bio": "مدرس دروس تفکر و سبک زندگی و معارف اسلامی",
+    "photo": "https://via.placeholder.com/100/8e44ad/ffffff?text=نن",
+    "grades": [7, 8, 9],
+    "subjects": ["تفکر و سبک زندگی", "معارف اسلامی"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 10,
+    "name": "محمد امین آبشینه",
+    "role": "دبیر ریاضی",
+    "bio": "دبیر ریاضیات",
+    "photo": "https://via.placeholder.com/100/16a085/ffffff?text=ما",
+    "grades": [7, 8, 9],
+    "subjects": ["ریاضیات"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 11,
+    "name": "علیرضا شکری",
+    "role": "دبیر زبان خارجه",
+    "bio": "مدرس زبان انگلیسی",
+    "photo": "https://via.placeholder.com/100/2980b9/ffffff?text=عش",
+    "grades": [7, 8, 9],
+    "subjects": ["زبان خارجه"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 12,
+    "name": "سید معید رستم زاده",
+    "role": "دبیر فرهنگ و هنر",
+    "bio": "مدرس فرهنگ و هنر",
+    "photo": "https://via.placeholder.com/100/f39c12/ffffff?text=سر",
+    "grades": [7, 8, 9],
+    "subjects": ["فرهنگ و هنر"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 13,
+    "name": "علی بشر",
+    "role": "دبیر قرآن",
+    "bio": "مدرس قرآن",
+    "photo": "https://via.placeholder.com/100/27ae60/ffffff?text=عب",
+    "grades": [7, 8, 9],
+    "subjects": ["قرآن"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 14,
+    "name": "ابراهیم خوش گویان",
+    "role": "دبیر مطالعات اجتماعی",
+    "bio": "مدرس مطالعات اجتماعی",
+    "photo": "https://via.placeholder.com/100/d35400/ffffff?text=اخ",
+    "grades": [7, 8, 9],
+    "subjects": ["مطالعات اجتماعی"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  },
+  {
+    "id": 15,
+    "name": "رضا شبانیان",
+    "role": "دبیر کار و فناوری",
+    "bio": "مدرس کار و فناوری",
+    "photo": "https://via.placeholder.com/100/7f8c8d/ffffff?text=رش",
+    "grades": [7, 8, 9],
+    "subjects": ["کار و فناوری"],
+    "bluetik": true,
+    "editor": false,
+    "posts": []
+  }
+    ]
